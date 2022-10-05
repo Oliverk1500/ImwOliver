@@ -25,25 +25,25 @@ Tarea 1, Mis Series Favoritas.
 
 Empezamos creand el virtualHost y haciendo el enlace simbolico, llamado Oliver.materia
 
-![Imagen del VirtualHost Creado] /home/asir/ImwOliver/trim1/ut1/a1/images/3.png
+![Imagen del VirtualHost Creado](./images/3.png)
 
 #### ***Creamos la Carpeta Share***. <a name="id3"></a>
 
 En este punto creamos la carpeta share y creamos el index.html donde se va hacer nuestra pagina.
 
-! [Imagen de el /var/www/html/share] (./images/5.png)
+![](./images/5.png)
 
 #### ***Index.html***. <a name="id4"></a>
 
 Creamos el index.html con las imagenes de portadas de las series y la redireccion a su pagina correspondiente de informacion
 
-![Imagen de el index.html] /home/asir/ImwOliver/trim1/ut1/a1/images/8.png
-![Imagen de el index.html creado] /home/asir/ImwOliver/trim1/ut1/a1/images/6.png
+![Imagen de el index.html](./images/8.png)
+![Imagen de el index.html creado](./images/6.png)
 
 #### ***Enseñado el Resultado***. <a name="id5"></a>
 
 Por ultimo se muestra la Pagina terminada y los archivos que se usan en la misma.
 
-! [Imagen de los archivos utilizados] /home/asir/ImwOliver/trim1/ut1/a1/images/10.png
+![Imagen de los archivos utilizados](./images/10.png)
 
-![Imagen de la Pagina Terminada] /home/asir/ImwOliver/trim1/ut1/a1/images/7.png
+![Imagen de la Pagina Terminada](./images/7.png)
