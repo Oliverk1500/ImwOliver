@@ -31,7 +31,7 @@ Empezamos creand el virtualHost y haciendo el enlace simbolico, llamado Oliver.m
 
 En este punto creamos la carpeta share y creamos el index.html donde se va hacer nuestra pagina.
 
-[Imagen de el /var/www/html/share] /home/asir/ImwOliver/trim1/ut1/a1/images/5.png
+![Imagen de el /var/www/html/share] (/home/asir/ImwOliver/trim1/ut1/a1/images/5.png)
 
 #### ***Index.html***. <a name="id4"></a>
 
